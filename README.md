@@ -29,6 +29,7 @@ https://www.figma.com/design/YTKI33OWBJllM3hD6TMZxp/CV_Definitiu?node-id=0-1&t=d
 
 
 ## Public Link
+https://alzaaa6.github.io/cv-jin-sakai/
 
 
 
